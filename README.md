@@ -30,6 +30,8 @@ This project is divided into two part:
 
 1. Training a machine learning model.
 2. Building and hosting a Flask web app on Heroku.
+3. Used WordLammitizer and Stopwords.
+4. We can also perform Hyperparammeter tunning but using NaiveBayes the accuracy is all other parameter are having high rate
 
 ## Installation
 
